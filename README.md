@@ -25,7 +25,7 @@
 
 ### 🧐  t o d a y 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJoowon0220&count_bg=%23FF0000&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWOOOOJI&count_bg=%23376614&title_bg=%23D3CFCF&icon=&icon_color=%23D5CDCD&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <br><br><br><br><br>
 
 </div>
