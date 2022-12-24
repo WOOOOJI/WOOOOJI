@@ -16,6 +16,9 @@
 <br>
 
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)](https://github.com/WOOOOJI/gitPratice) [![Oracle DB](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)](https://github.com/WOOOOJI/gitPratice)
+ 
+<br>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=깃허브아이디&layout=compact)](https://github.com/깃허브아이디/github-readme-stats)
 <br><br><br><br>
 
 ## 💫 m e 
