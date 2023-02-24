@@ -1,4 +1,5 @@
-
+<img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/coffee.gif" />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=WOOOOJI&theme=tokyonight)](https://git.io/streak-stats)
 <div align=center>
 
 ##  T E C H 💻
