@@ -1,6 +1,16 @@
 
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=WooJin's-CodingDisk&fontSize=70)
+name: Compact display
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.achievements.compact.svg
+  token: ${{ secrets.METRICS_TOKEN }}
+  base: ""
+  plugin_achievements: yes
+  plugin_achievements_only: >-
+    polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
+    scripter, packager, explorer, infographile, manager
+  plugin_achievements_display: compact
+  plugin_achievements_threshold: X
 
 <div align=center>
 
