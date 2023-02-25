@@ -66,7 +66,8 @@
 </a>
 <a href="https://instagram.com/woo.j_?igshid=NzAzN2Q1NTE=" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
+</a>
+<a href="https://wooj-coding-fordeveloper.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=Tistory&logoColor=white"></a>
 </div>  
   
 
@@ -77,12 +78,6 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=WOOOOJI&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
-
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-
-<!-- BLOG-POST-LIST:END -->  
 
 <br/>  
 
