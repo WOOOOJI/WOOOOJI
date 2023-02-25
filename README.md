@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Woojin Yeon, a Junior Backend developer 👨‍💻 I started studying development in 2022 ✌️</div>  
+### <div align="center">What's up :) I'm Woojin Yeon, a Junior Backend developer 👨‍💻 I started studying development in 2022 ✌️</div>  
   
 
 - 🌱 I’m currently learning JPA & Flutter  
