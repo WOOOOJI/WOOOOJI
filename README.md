@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="" width="600" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
 
@@ -60,15 +60,14 @@
 
 
 ## Connect with me  
-<a href="https://github.com/https://github.com/WOOOOJI" target="_blank">
+<div align="center">
+<a href="https://github.com/WOOOOJI" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/https://instagram.com/woo.j_?igshid=NzAzN2Q1NTE=" target="_blank">
+<a href="https://instagram.com/woo.j_?igshid=NzAzN2Q1NTE=" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/https://wooj-coding-fordeveloper.tistory.com/" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>  
+</div>  
   
 
 <br/>  
@@ -87,13 +86,10 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31g24lp6k4gfoq7f7vg7u6ptczy4&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false" /></div>  
+  
 
 <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=WOOOOJI&&style=flat-square" align="center" />
-</div>  
   
 
 <br/>  
@@ -103,10 +99,3 @@ If things goes well, this section should automatically be replaced by a list of 
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-
-### 🧐  t o d a y 
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWOOOOJI&count_bg=%23376614&title_bg=%23D3CFCF&icon=&icon_color=%23D5CDCD&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<br><br><br><br><br>
-
-</div>
