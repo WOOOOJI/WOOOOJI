@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning JPA & Flutter  
   
 
-- ❓ Ask me about anything related to ![java](https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white), ![Spring](https://img.shields.io/badge/Spring?style=flat-square&logo=Spring&logoColor=green). I'll do my best to help you 😃  
+- ❓ Ask me about anything related to ![java](https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white), ![spring](https://img.shields.io/badge/Sprring-6DB33F?style=flat-square&logo=Spring&logoColor=white). I'll do my best to help you 😃  
   
 
 - ⚡ Fun fact: I'm a non-major, never went to college  
